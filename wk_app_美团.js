@@ -2,7 +2,7 @@
 /*
 美团小程序首页天天赚钱
 抓包：美团 *.meituan.com域名下的Cookie中的token值
- 环境变量 mtTk   只需要token的值
+ 环境变量 meituanCookie   只需要token的值
 
 多账号用 @ & \n
 如需关闭膨胀，环境变量 sjpz 值：false
